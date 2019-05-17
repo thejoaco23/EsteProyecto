@@ -6,7 +6,7 @@ public class Multimedia {
 	String atributos;
 	int duracion;
 	
-	public class  informacion(String titulo, int duracion) {
+	public Informacion( String titulo, int duracion) {
 		
 	}
 	
